@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iykazrji&count_private=true&show_icons=true&theme=onedark) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iykazrji&langs_count=8&layout=compact&hide=html,css&theme=onedark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iykazrji&count_private=true&show_icons=true&theme=onedark) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iykazrji&langs_count=8&count_private=true&layout=compact&hide=html,css&theme=onedark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iykazrji&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)
 <!--
 **iykazrji/iykazrji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
